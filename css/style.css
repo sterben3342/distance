@@ -471,13 +471,14 @@ margin-right: 12px;
        word-wrap: break-word;
     }
     .figma{
-        background-image: url("/img/figma-icon.jpg");
+        background-image: url(/img/figma-icon.jpg);
+         
     background-repeat: no-repeat;
     background-position:center;
     background-size: cover;
     }
     .Concuria{
-               background-image: url("/img/concuria-icon.jpg ");
+               background-image: url(/img/concuria-icon.jpg );
                background-repeat: no-repeat;
                background-position:center;
              
